@@ -1,4 +1,4 @@
-# RFM Segmentation
+# Cohort Analysis
 This repository contains all resources and code files related to Cohort Analysis.
 
 ![Cohort Analysis](https://github.com/nafiul-araf/Snowflake/blob/main/Cohort%20Analysis/Excel%20Image.JPG)
